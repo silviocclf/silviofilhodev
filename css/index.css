@@ -14,12 +14,6 @@ header {
     height: 100px;
 }
 
-h1, h2, h3 {
-    font-family: 'Press Start 2P', sans-serif;
-    color: #FFFFFF;
-    text-shadow: 5px 5px 0px #000000;
-}
-
 nav {
     text-align: right;
     display: inline-block;
@@ -65,7 +59,7 @@ section {
 
 img {
     height: 795px;
-    width: 640px;
+    width: 740px;
     padding: 60px 50px 0 0;
 }
 
@@ -92,28 +86,28 @@ img {
     text-align: center;
 }
 
-.titulos {
+.titles {
     display: inline-block;
     text-align: center;
     background-color: #BB0505;
-    box-shadow: 5px 5px 0px #000000;
+    box-shadow: 10px 10px 0px #000000;
     padding: 70px;
-    margin: 331px 0 54px 0;
-    width: 660px;
+    margin: 200px 0 54px 0;
+    width: 700px;
 }
 
-.titulo {
-    font-size: 35px;
+.title {
+    font-size: 40px;
     margin-bottom: 28px;
 }
 
 
-.subtitulo {
-    font-size: 20px;
+.subtitle {
+    font-size: 30px;
 }
 
-#container-buttons {
+.container-buttons {
     display: flex;
     justify-content: space-around;
-    width: 660px;
+    width: 730px;
 }
