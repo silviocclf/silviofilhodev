@@ -1,0 +1,17 @@
+#home {
+    display: flex;
+    justify-content: space-around;
+    background-color: hsl(195, 6%, 24%);
+    height: calc(100vh - 100px);
+    border-bottom: 10px solid #000;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
