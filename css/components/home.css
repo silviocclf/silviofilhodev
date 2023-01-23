@@ -6,11 +6,6 @@
     border-bottom: 10px solid #000;
 }
 
-.wrapper {
-    display: flex;
-    flex-direction: column;
-}
-
 .navigation {
     display: flex;
     justify-content: space-around;
