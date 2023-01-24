@@ -4,3 +4,10 @@
     text-shadow: 4px 4px 0px #000000;
     font-size: 40px;
 }
+
+.title.-second {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-shadow: none;
+}
